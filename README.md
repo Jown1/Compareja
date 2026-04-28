@@ -314,12 +314,3 @@ Definidos em `app/Helpers/helpers.php` e carregados automaticamente via `compose
 
 Este projeto é de uso acadêmico. Sinta-se livre para adaptá-lo conforme sua necessidade.<br>
 O framework Laravel é um software de código aberto licenciado sob a [MIT license](https://opensource.org/licenses/MIT).
-
----
-
-<p align="center">
-  <a href="https://laravel.com/docs/11.x">Documentação Laravel 11</a> •
-  <a href="https://laravel.com/docs/11.x/migrations">Migrations</a> •
-  <a href="https://laravel.com/docs/11.x/seeding">Seeders</a> •
-  <a href="https://laravel.com/docs/11.x/eloquent">Eloquent ORM</a>
-</p>
